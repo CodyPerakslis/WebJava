@@ -1,0 +1,12 @@
+This repo contains my learning of web-based Java programming.
+I use Apache Tomcat with Netbean for these projects.
+
+Most of these directly follow online tutorial.
+The Hello Form is from: https://netbeans.org/kb/docs/web/quickstart-webapps.html
+The Sign-in Form is from: https://netbeans.org/kb/docs/web/quickstart-webapps-struts.html
+The WhiteBoardApp is from: https://netbeans.org/kb/docs/javaee/maven-websocketapi.html
+
+The Projects project just serves to hold some personal front end work.
+So far, all work here comes from FreeCodeCamp challeges.
+
+

@@ -1,0 +1,16 @@
+01-Feb-2017 08:25:23.617 INFO [http-nio-8080-exec-43] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor /Users/codyperakslis/Code/webjava/conf/Catalina/localhost/MyStrutsApp.xml
+01-Feb-2017 08:25:24.242 INFO [http-nio-8080-exec-43] org.apache.struts.action.ActionServlet.initChain Loading chain catalog from jar:file:/Users/codyperakslis/Code/webjava/MyStrutsApp/build/web/WEB-INF/lib/struts-core-1.3.10.jar!/org/apache/struts/chain/chain-config.xml
+01-Feb-2017 08:25:24.537 INFO [http-nio-8080-exec-43] org.apache.struts.tiles.TilesPlugin.initDefinitionsFactory Tiles definition factory loaded for module ''.
+01-Feb-2017 08:25:24.540 INFO [http-nio-8080-exec-43] org.apache.struts.validator.ValidatorPlugIn.initResources Loading validation rules file from '/WEB-INF/validator-rules.xml'
+01-Feb-2017 08:25:24.540 INFO [http-nio-8080-exec-43] org.apache.struts.validator.ValidatorPlugIn.initResources Loading validation rules file from '/WEB-INF/validation.xml'
+01-Feb-2017 08:25:24.635 INFO [http-nio-8080-exec-43] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor /Users/codyperakslis/Code/webjava/conf/Catalina/localhost/MyStrutsApp.xml has finished in 1,019 ms
+01-Feb-2017 08:25:24.646 INFO [http-nio-8080-exec-36] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/MyStrutsApp]] after start() had already been called. The second call will be ignored.
+01-Feb-2017 08:25:29.813 INFO [http-nio-8080-exec-37] org.apache.struts.tiles.TilesRequestProcessor.initDefinitionsMapping Tiles definition factory found for request processor ''.
+01-Feb-2017 11:21:12.649 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+01-Feb-2017 11:21:12.650 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+01-Feb-2017 11:21:12.710 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+01-Feb-2017 11:21:12.766 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+01-Feb-2017 11:21:12.795 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+01-Feb-2017 11:21:12.797 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+01-Feb-2017 11:21:12.798 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Feb-2017 11:21:12.799 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

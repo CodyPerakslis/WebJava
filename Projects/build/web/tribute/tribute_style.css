@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 31, 2017, 11:57:12 PM
+    Author     : codyperakslis
+*/
+
+body {
+	margin: 60px;
+	background-color: #CCCCCC;
+}
+
+h2 {
+	font-family: "Lemonada", cursive;
+	color:  orange;
+}
+
+h4 {
+	font-family: 'Arima Madurai', cursive;
+}
+
+#middle {background-color: #DDDDDD;}
+
+#end {background-color: #FFFFFF}
+
+dt {font-size: 15px;}
+dd {font-size: 15px;}
